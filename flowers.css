@@ -90,12 +90,12 @@ i {
 
 #main {
     background: #f5f4f2;
-    height: 100%;
+    height: fit-content;
 }
 
 .main_items {
     flex-direction: column;
-    margin: 0 0 auto;
+    margin: 0 0 5px;
 }
 
 .main_item {
